@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: tailspinspacegame4692.azurecr.io/web
+          image: tailspinspacegame6581.azurecr.io
           ports:
           - containerPort: 80
 ---
